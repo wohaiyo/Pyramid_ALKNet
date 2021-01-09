@@ -1,0 +1,27 @@
+-- batch_size: 4
+-- Gradient Accumulation: 1
+-- image height: 512
+-- image width: 512
+-- learning rate: 0.0002
+-- GPU: 1
+-- optimizer: Adam
+-- class num: 8
+-- total iter: 10000
+-- Time acc: False
+-- Acc interval: 180
+-- Start Acc iter: 2000
+-- Is save step: True
+-- Start save step: 6000
+-- save ecpoch: 2000
+-- model save num: 12
+-- summary interval: 5
+-- weight decay: 0.0001
+-- Freeze BN: True
+-- Decay rate: 0.9
+-- minScale: 0.4
+-- maxScale: 1.1
+-- random scale: True
+-- random mirror: True
+-- random crop: True
+-- Validation on :data/RueMonge2014/train.txt
+-- Pre-trained: /media/ilab/Storage 2/mwg_tf_pretrained/resnet_v1_50.ckpt
