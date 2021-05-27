@@ -83,9 +83,9 @@ You need to download the two dataset——ECP and RueMonge2014, and put the file
 - You can run: `python train.py -h` to check the detail of optional arguments.
 Basically, in the `config.py`, you can set the dataset, train type, epochs and batch size, etc.
 ```
-python train.py
+python train_gradient.py
 ```
-- training on Cityscapes train set
+- training on RueMonge2014 train set
 
 
 ### Testing
