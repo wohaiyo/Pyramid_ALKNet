@@ -93,6 +93,10 @@ python train_gradient.py
 ```
 python eval.py
 ```
+### Acknowledgments & Contact
+Please feel free to contact me if you have any other questions.
+
+E-mail: mawenguang@emails.bjut.edu.cn or mawenguang@126.com
 
 ### Citation
 
